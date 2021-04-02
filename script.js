@@ -1,5 +1,5 @@
 
-//var mykey = config.MY_KEY;
+var mykey = config.MY_KEY;
 
 var request = new XMLHttpRequest()
 
