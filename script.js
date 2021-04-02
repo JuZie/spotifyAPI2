@@ -1,3 +1,4 @@
+<script type='text/javascript' src='config.js'></script>
 //var mykey = config.MY_KEY;
 
 var request = new XMLHttpRequest()
